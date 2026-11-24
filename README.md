@@ -15,6 +15,6 @@
 
 Версия 1.0. Статья встроена в APK. Приложение работает без интернета и открывает другие DOCX через системное окно выбора файлов. Запуск, поиск, пояснения и переход к выделенной ячейке проверены на эмуляторе Android 17 в авиарежиме.
 
-[Скачать подписанный APK, 153 КиБ](https://raw.githubusercontent.com/marakirewa-dot/razbor-stati/main/RazborStati-1.0.apk)
+[Страница релиза 1.0](https://github.com/marakirewa-dot/razbor-stati/releases/tag/v1.0) · [Скачать APK, 153 КиБ](https://github.com/marakirewa-dot/razbor-stati/releases/download/v1.0/RazborStati-1.0.apk)
 
 **SHA-256 файла** `d0067bb73a602af66a9af7a20c8f88afa6fd07ccd602ebcc5e985c45548ff4e3`
